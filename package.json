@@ -2,7 +2,7 @@
   "name": "resume",
   "lastestUpdatedAt": "2021-11-15",
   "version": "1.0.0",
-  "description": "Wonjoon's resume. Made from yowu's masterpiece",
+  "description": "Kyuyoung's resume. Made from yowu's masterpiece",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,10 +18,10 @@
     "lint": "eslint 'component/**/*' 'pages/**/*' 'payload/**/*' '*.ts' --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://wnjoon.github.io/resume",
+  "homepage": "https://choikyuyoung.github.io/resume",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wnjoon/resume.git"
+    "url": "git+https://github.com/choikyuyoung/resume.git"
   },
   "keywords": [
     "resume",
@@ -29,8 +29,7 @@
   ],
   "author": {
     "name": "Wonjoon Lee",
-    "email": "wnjoon@gmail.com",
-    "url": "https://wnjoon.tistory.com"
+    "email": "kyuyoung486@gmail.com"
   },
   "contributors": [],
   "license": "MIT",
